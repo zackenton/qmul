@@ -1,4 +1,4 @@
-# qmul
+# QMUL Machine Learning Session Setup Instructions
 
 1. Get python 3.6
 Recommended: https://www.anaconda.com/download/
