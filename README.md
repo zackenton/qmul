@@ -3,7 +3,7 @@
 1. Get python 3.6
 Recommended: https://www.anaconda.com/download/
 
-The instructions which follow should be run in a terminal window.
+The instructions which follow should be run in a terminal window (except the last command which should be entered in the jupyter notebook).
 
 2. Build a conda environment (conda is a nice package manager for python). Run:
 ```
@@ -29,7 +29,7 @@ pip install keras
 ```
 jupyter notebook
 ```
-this should open a browser window. Click the dropdown menu 'new' and select 'python 3'. This should open a new window which is a jupyter notebook - an interactive python playground. Check keras and its dependencies loaded by typing
+this should open a browser window. Click the dropdown menu 'new' and select 'python 3'. This should open a new window which is a jupyter notebook - an interactive python playground. Check keras and its dependencies loaded by typing in the jupyter notebook (not in the terminal)
 ```
 import keras
 ```
