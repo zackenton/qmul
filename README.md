@@ -15,7 +15,7 @@ conda create --name qmul python=3.6 numpy matplotlib jupyter
 source activate qmul
 ```
 
-4. Install tensorflow from https://www.tensorflow.org/install/. The installation can be tricky, depending on your system. Easiest way is to use
+4. Install tensorflow. The installation can be tricky, depending on your system. Easiest way is to use
 ```
 conda install -c conda-forge tensorflow
 ```
