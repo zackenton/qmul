@@ -34,3 +34,5 @@ this should open a browser window. Click the dropdown menu 'new' and select 'pyt
 import keras
 ```
 and hitting shift-enter. If it returns without an error, your installation worked!
+
+(Note, in case people want to come back to this later, the versions used in the tutorial are tensorflow 1.4.0, keras 2.1.3)
